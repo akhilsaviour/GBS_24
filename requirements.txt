@@ -1,1 +1,7 @@
+numpy
+scipy
+matplotlib
+thewalrus
+git+https://github.com/BYUCamachoLab/simphony.git
+git+https://github.com/BYUCamachoLab/sipann.git
 
