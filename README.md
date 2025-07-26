@@ -4,9 +4,3 @@ Simulation of Gaussian Boson Sampling (GBS) using a Mach–Zehnder interferomete
 
 
 
-Install required packages:
-This project relies on several photonic simulation libraries:
-
-pip install thewalrus
-pip install git+https://github.com/BYUCamachoLab/simphony.git
-pip install git+https://github.com/BYUCamachoLab/sipann.git
